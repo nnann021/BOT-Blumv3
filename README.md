@@ -8,7 +8,7 @@ BOT V3 FULL AUTO
 cd BOT-Blumv3
 ```
 ```
-pip install request
+pip install requests
 ```
 ```
 pip install time
